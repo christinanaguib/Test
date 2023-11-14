@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suit">
+    <test name="Test1">
+        <parameter name="ApiIndex" value="2"></parameter>
+        <classes>
+            <class name="CreateInheritanceTest"></class>
+        </classes>
+    </test> <!-- Test -->
+    <test name="Test2">
+        <parameter name="ApiIndex" value="1"></parameter>
+        <classes>
+
+            <class name="CreateInheritanceTest"></class>
+        </classes>
+
+    </test>
+
+</suite> <!-- Suite -->

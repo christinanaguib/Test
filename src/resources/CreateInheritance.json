@@ -1,0 +1,34 @@
+{
+  "initialDecisionNumber": "",
+  "initialDecisionHijriDate": "",
+  "initialDecisionCourtCode": "",
+  "initialDecisionAttachment": {
+    "attachmentContent": "",
+    "attachmentName": "",
+    "attachmentType": ""
+  },
+  "appellateDecisionNumber": "",
+  "appellateDecisionHijriDate": "",
+  "appellateDecisionCourtCode": "",
+  "appellateDecisionAttachment": {
+    "attachmentContent": "",
+    "attachmentName": "",
+    "attachmentType": ""
+  },
+  "inheritanceName": "",
+  "inheritorName": "",
+  "iDNumber": "",
+  "inheritanceConsultantId": "",
+  "poNumber": "",
+  "poCopy": {
+    "attachmentContent": "",
+    "attachmentName": "",
+    "attachmentType": ""
+  },
+  "poDate": "",
+  "IBAN": "",
+  "assetEvaluationResponsibility": "",
+  "spGUID": "",
+  "serviceTypeGUID": "",
+  "spType": ""
+}
